@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="484f495f-d65a-4a5d-997e-89c8b17555ad" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+  <name>TeamCity Bug TW-42278</name>
+  <description>A demonstration of TeamCity bug TW-42278</description>
+  <parameters />
+  <cleanup />
+</project>
+
